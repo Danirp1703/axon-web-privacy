@@ -111,9 +111,9 @@ export default function Benefits() {
         >
           <div className="inline-block bg-[#1A1A1A] border border-[#E0E0E0]/30 rounded-2xl p-8">
             <p className="text-xl text-[#D1D1D1] max-w-2xl">
-              Nuestras soluciones están diseñadas para fisioterapeutas que buscan{' '}
+              Nuestras soluciones están diseñadas para todo tipo de empresas {' '}
               <span className="text-[#E0E0E0] font-semibold">
-                optimizar su práctica
+                que buscan optimizar su trabajo
               </span>{' '}
               y ofrecer una{' '}
               <span className="text-[#E0E0E0] font-semibold">
