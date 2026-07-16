@@ -86,9 +86,14 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-[#E0E0E0]/20 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
-          <p className="text-[#D1D1D1] text-sm">
-            © {currentYear} Axon AI Agency. {t('footer_rights')}.
-          </p>
+          <div className="text-center md:text-left">
+            <p className="text-[#D1D1D1] text-sm">
+              © {currentYear} Axon AI Agency. {t('footer_rights')}.
+            </p>
+            <p className="text-[#D1D1D1] text-sm mt-1">
+              Daniel Ramos Pastor, NIF 20919691H
+            </p>
+          </div>
 
           <div className="flex items-center gap-4">
             <span className="text-[#D1D1D1] text-sm">Idioma:</span>
