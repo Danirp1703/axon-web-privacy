@@ -93,6 +93,12 @@ export default function Footer() {
             <p className="text-[#D1D1D1] text-sm mt-1">
               Daniel Ramos Pastor, NIF 20919691H
             </p>
+            <p className="text-[#D1D1D1] text-sm mt-1">
+              CALLE ALICANTE 26 Bloque 2 Esc. 2 Planta 08 Pta. N, 12004 Castellón de la Plana (Castellón)
+            </p>
+            <p className="text-[#D1D1D1] text-sm mt-1">
+              Tel: +34 624325818
+            </p>
           </div>
 
           <div className="flex items-center gap-4">
